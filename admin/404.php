@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Blood Bank || 404</title>
+
+</head>
+<body class="">
+    <h1 style="text-align: center; font-weight: bold; font-size: 150px; color: red" >404</h1>
+    <p style="text-align: center; font-weight: bold; font-size: 40px; margin-top: -90px" >Not Found</p>
+</body>
+</html>
